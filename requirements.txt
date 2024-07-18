@@ -1,8 +1,8 @@
-os-sys
 pandas
 numpy
 matplotlib
 seaborn
 japanize-matplotlib
 python-pptx
+
 !python-pptx
